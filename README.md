@@ -1,17 +1,22 @@
-# BalloonText
+<h1 align="center">BalloonText</h1>
 
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.teddko/balloontext.svg)](https://search.maven.org/artifact/io.github.teddko/balloontext/1.0.0/aar)
-[![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=23)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+<p align="center">
+    <a href="https://search.maven.org/artifact/io.github.teddko/balloontext/1.0.0/aar"><img src="https://img.shields.io/maven-central/v/io.github.teddko/balloontext.svg" alt="Maven Central"/></a>
+    <a href="https://android-arsenal.com/api?level=23"><img src="https://img.shields.io/badge/API-23%2B-brightgreen.svg" alt=""API /></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt=""License /></a>
+</p>
 
-BalloonText is a customizable chat bubble text component library for Jetpack Compose. It provides an easy way to create stylish chat bubble UI components with various customization options.
-</br></br>
-![balloontext](https://github.com/user-attachments/assets/7bba0e32-9ec5-414a-b234-28ff0a4c866e)
+<br><br>
 
+<div align="center">
+    <img align="center" src="https://github.com/user-attachments/assets/7bba0e32-9ec5-414a-b234-28ff0a4c866e"/><br><br>
+</div>
 
+<br><br>
+
+BalloonText is a customizable chat bubble text component library for ***`Jetpack Compose.`*** It provides an easy way to create stylish chat bubble UI components with various customization options.
 
 ## Features
-
 - Four tail directions (right-top, left-top, right-bottom, left-bottom)
 - Three preset shape sizes (large, medium, small)
 - Customizable colors and padding
